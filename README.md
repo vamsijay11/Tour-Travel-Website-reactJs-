@@ -28,6 +28,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 install important libraries
 
 >npm install react-native-webview
+
+
 >npm i react-icons
 
 ##`RUN PROJECT`
