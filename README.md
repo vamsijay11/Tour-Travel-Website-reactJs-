@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
- travel website serves as an information hub for prospective travelers planning a getaway. Today, people travel for a range of experiences—babymoons, staycations, voluntourism or bleisure—you name it. So, provide as much relevant information as possible to help users plan their trips
+ travel website serves as an information hub for prospective travelers planning a getaway. Today, people travel for a range of experiences—babymoons, staycations, voluntourism or bleisure—you name it. So, provide as much relevant information as possible to help users plan their trips by using information of cost , rating in website etc.
 
 ## Available Scripts
 
